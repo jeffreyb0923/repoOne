@@ -4,3 +4,5 @@
 '*.lnk'
 *.lnk
 graph*.txt
+*.png
+.gitignore
