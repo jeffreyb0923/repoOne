@@ -1,5 +1,9 @@
 'Git Bash.lnk'
+'myConfig.txt'
 'progit.lnk'
 'study log.lnk'
 '*.lnk'
 *.lnk
+graph*.txt
+*.png
+.gitignore
